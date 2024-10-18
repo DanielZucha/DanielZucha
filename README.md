@@ -1,10 +1,10 @@
-## Hi! 👋
+## Hello! 👋
 
 I am Daniel Zucha.
 
-A curious individual seeking to better understand the world around me through the lense of data analysis. 🔍🧑‍💻
+🔍 A curious individual seeking to better understand the world around me through the lense of data analysis. 
 
-I am a Ph.D. candidate in computational biology, busy with single-cell and spatial transcriptomics to decipher brain diseases in the [Laboratory of Gene Expression](https://github.com/LabGenExp).
+🧑‍💻 I am a Ph.D. candidate in computational biology, busy with single-cell and spatial transcriptomics to decipher brain diseases in the [Laboratory of Gene Expression](https://github.com/LabGenExp).
 
 Welcome to my GitHub Page! 
 
