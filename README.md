@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=27907A&width=435&lines=Hi!+I+am+Daniel+Zucha.)](https://git.io/typing-svg)
 
-🔍 don't mind me, probably just vibing to some spatial or single-cell data.
+🔍 Don't mind me, just vibing with some spatial data.
 
 🧑‍💻 I am a Ph.D. candidate in computational biology, deciphering brain diseases in the [Laboratory of Gene Expression](https://github.com/LabGenExp).
 
