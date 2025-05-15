@@ -6,7 +6,7 @@
 
 📖 I am a Ph.D. candidate in computational biology, deciphering brain pathology in the [GliaOmicsLab](https://www.ibt.cas.cz/en/Core-Facility-Research-Laboratories/Glia-Omics-Lab/).
 
-🧑‍💻 I am a co-founder of spatial omics data analysis company [Carta | Genum](https://cartagenum.com/)
+🧑‍💻 I am a co-founder of spatial omics data analysis company [Carta | Genum](https://cartagenum.com/).
 
 Welcome to my GitHub Page! 
 
