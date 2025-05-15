@@ -2,9 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=27907A&width=435&lines=Hi!+I+am+Daniel+Zucha.)](https://git.io/typing-svg)
 
-🔍 Don't mind me, just vibing with some spatial data.
+🔍 Don't mind me, just vibing to some spatial data.
 
-🧑‍💻 I am a Ph.D. candidate in computational biology, deciphering brain diseases in the [Laboratory of Gene Expression](https://github.com/LabGenExp).
+📖 I am a Ph.D. candidate in computational biology, deciphering brain pathology in the [GliaOmicsLab](https://www.ibt.cas.cz/en/Core-Facility-Research-Laboratories/Glia-Omics-Lab/).
+
+🧑‍💻 I am a co-founder of spatial omics data analysis company [Carta | Genum](https://cartagenum.com/)
 
 Welcome to my GitHub Page! 
 
